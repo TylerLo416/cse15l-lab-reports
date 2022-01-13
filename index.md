@@ -1,3 +1,3 @@
-Hello World!
-Tyler Lo
+*Hello World!*
+**Tyler Lo**
 Penguin
