@@ -1,3 +1,6 @@
+## Lab Report 1 Week 2 ##
+-------------------------
+
 # Installing VS Code #
 Go to the VS code download page: [link](https://code.visualstudio.com/)
 I have already downloaded it but this is what the download page looks like
@@ -30,3 +33,6 @@ I have a macro on my keyboard for a password, so I chose to keep that password t
 ![Step5-Image2](ssh-key-2.PNG)
 
 # Optimizing Remote Running #
+To further increase the efficiency of running programs, you can run multiple commands split up by semicolons so that you can run lines of code in the remote server, and immediately log out.
+In this program, I didn't have a public static main method, but it shows how I can run javac and java commands in the server faster by typing everything i want to happen into one line in the terminal.
+![Step6-Image1](optimizing-remote-running.PNG)

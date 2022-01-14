@@ -11,4 +11,4 @@ this is a link
 
 ++++++++
 
-[cse15l-lab-reports](https://tylerlo416.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[cse15l-lab-reports](https://tylerlo416.github.io/cse15l-lab-reports/lab-report-1-week-2.html)6
