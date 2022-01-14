@@ -21,3 +21,12 @@ For example, this command **ls-a** causes teh terminal to show all hidden and no
 # Moving Files With SCP #
 You can move files from the client to the server by using the command scp. In this instance, **scp WhereAmI.java cs15lwi22???@ieng6.ucsd.edu:~/ moved the program WhereAmI.java to the ieng6 server.
 ![Step4-Image1](scp-moving-files.PNG)
+
+# SSH Keys #
+To reduce the amount of time to login to the remote server, you can eliminate or rewrite your password for your CSE15L account to not have to type it in.
+To do this, run the command **ssh-keygen** and follow the prompts in the terminal.
+![Step5-Image1](ssh-key.PNG)
+I have a macro on my keyboard for a password, so I chose to keep that password to protect my account, however this still drastically reduced the amount of time needed to log in.
+![Step5-Image2](ssh-key-2.PNG)
+
+# Optimizing Remote Running #
