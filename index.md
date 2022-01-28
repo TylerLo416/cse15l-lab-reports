@@ -35,5 +35,6 @@ I have a macro on my keyboard for a password, so I chose to keep that password t
 # Optimizing Remote Running #
 To further increase the efficiency of running programs, you can run multiple commands split up by semicolons so that you can run lines of code in the remote server, and immediately log out.
 In this program, I didn't have a public static main method, but it shows how I can run javac and java commands in the server faster by typing everything i want to happen into one line in the terminal.
-Because I can type everything into 1 line, it saves 4 keystrokes/written lines of code: the ssh command, javac command, java command, and not having to logout after completing the commands on the remote server
+Because I can type everything into 1 line, it saves having to type 4 individual lines of code: the ssh command, javac command, java command, and having to logout after completing the commands on the remote server
+It saves 13 keystrokes/literal clicks on the keyboard
 ![Step6-Image1](optimizing-remote-running.PNG)
