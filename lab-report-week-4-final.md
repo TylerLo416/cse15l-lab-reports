@@ -41,4 +41,4 @@ Symptom of the failure inducing input:
 ![Bug3-Image2](bug3-markdown-parse-week4-cse15l-terminal.PNG)
 
 The terminal throws an index out of bounds exception because it cannot find any text within the parenthesis, and as a result the substring fails to find an endpoint. The bug was the program trying to utilize a substring method that attempted to find text even if there was any. The symptom ```IndexOutOfBoundsException``` in this case directly pointed to the problematic line, where the empty parenthesis (failure inducing input) caused the substring to look for an index that wasn't there.
-To resolve this, adding an if statement to check if there is text in betweeen the ```()``` prevents this issue from occuring. If there is no text, the program returns nothing rather than producing an error.
+To resolve this, adding an if statement to check if there is text in betweeen the ```()``` prevents this issue from occuring. If there is no text, the program returns nothing rather than producing an error. 
