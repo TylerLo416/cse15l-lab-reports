@@ -9,18 +9,18 @@ For snippet 1, the Preview shows that ```another link``` , ```cod[e``` , and ```
 
 For snippet 2, the Preview shows that ```nested link``` , ```a nested parenthesized url``` , and ```some escaped [ brackets ] ``` are all links. Therefore, ```a.com``` , ```a.com(())``` , and ```example.com``` should be added to the ArrayList.
 
-![Screenshot2](preview-snippet-2-week-8-lab.PNG)
+![Screenshot2](preview-snippet-2-week-8.PNG)
 
 For snippet 3, ```https://www.twitter.com``` , ```this title text is really long and takes up more than one line``` , and ```https://cse.ucsd.edu/``` are links. Therefore, ```https://www.twitter.com``` , ```https://ucsd-cse15l-w22.github.io/``` , and ```https://cse.ucsd.edu/``` should be added to the ArrayList.
 
-![Screenshot3](preview-snippet-3-week-8-lab.PNG)
+![Screenshot3](preview-snippet-3-week-8.PNG)
 
 
 # Markdown-parse tests #
 
 My markdown-parse repository: [link](https://github.com/TylerLo416/markdown-parse.git)
 
-My markdown-parse tests: ![Screenshot5](myMarkdown-parse-test)
+My markdown-parse tests: ![Screenshot5](myMarkdown-parse-test.PNG)
 
 Result of the output of the tests: ![Screenshot6](myMarkdown-test-week-8.PNG)
 
@@ -29,7 +29,9 @@ Reviewed markdown-parse repository: [link](https://github.com/TheZenMasterz/mark
 
 Markdown-parse tests for the reviewed repository (same tests): ![Screenshot6](myMarkdown-test-week-8.PNG)
 
-Result of the output of the tests: ![Screendhot7](reviewed-markdown-parse-test-result.PNG)
+Result of the output of the tests: ![Screenshot7](reviewed-markdown-parse-test-result.PNG)
+
+Specific test output errors: ![Screenshot8](specific-test-errors-reviewed.PNG)
 
 # Snippet 1 Changes #
 
