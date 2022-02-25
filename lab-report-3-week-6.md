@@ -6,6 +6,7 @@
 Copying over markdown parse is relatively straightforward. Using ```scp -r . cs15lwi22adi@ieng6.ucsd.edu:~/markdown-parse``` in the terminal copies the entire directory to the new server. This directory is represented by the ```.``` The ```-r``` tells scp to work recursively in order to copy all files in a directory (and all files in those files and directories). The ```~/markdown-parse``` creates the markdown-parse directory on the remote server and then copies the files inside the directory there.
 
 ![Screenshot1](scp1-markdown-parse-week6.PNG)
+
 ![Screenshot2](scp2-markdown-parse-week6.PNG)
 
 
