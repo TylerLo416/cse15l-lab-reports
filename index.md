@@ -9,3 +9,6 @@
 
 # Lab3 #
 [link](https://tylerlo416.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
+# Lab4 #
+[link](https://tylerlo416.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
