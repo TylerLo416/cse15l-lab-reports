@@ -31,7 +31,7 @@ Markdown-parse tests for the reviewed repository (same tests): ![Screenshot6](my
 
 Result of the output of the tests: ![Screenshot7](reviewed-markdown-parse-test-result.PNG)
 
-Specific test output errors: ![Screenshot8](specific-test-errors-reviewed.PNG)
+Specific test output errors: ![Screenshot8](specific-test-errors-reviewed-markdown.PNG)
 
 # Snippet 1 Changes #
 
