@@ -27,7 +27,7 @@ Result of the output of the tests: ![Screenshot6](my-markdown-parse-redo-tests.P
 
 Reviewed markdown-parse repository: [link](https://github.com/TheZenMasterz/markdown-parse.git)
 
-Markdown-parse tests for the reviewed repository (same tests): ![Screenshot6](markdown-test-redo-8.PNG)
+Markdown-parse tests for the reviewed repository (same tests): ![Screenshot6](markdown-test-redo.PNG)
 
 Result of the output of the tests: ![Screenshot7](reviewed-markdown-test-result.PNG)
 ![Screenshot8](reviewed-markdown-test-result-2.PNG)
