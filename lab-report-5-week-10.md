@@ -8,10 +8,10 @@ I manually searched through test files until I found 2 test files that had diffe
 Code I used to print out the tests for both my repository and the given repository
 ![Screenshot-0](main-method-test-output.PNG)
 
-Week 9 repository:
+My groups repository:
 ![Screenshot-1](my-test-output.PNG)
 
-My groups repository: 
+Week 9 repository: 
 ![Screenshot-2](my-actual-test-output.PNG)
 
 # Bug 1: test 489 #
