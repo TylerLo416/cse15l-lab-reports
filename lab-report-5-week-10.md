@@ -54,6 +54,6 @@ Commonmark preview of the contents of test 505:
 
 As shown in the commonmark preview, ```505.md``` should produce a link. This means that the week 9 output is incorrect because it does not return a link, but my group's repository has the correct output. 
 
-![Screenshot-7](505-error)
+![Screenshot-7](505-error.PNG)
 
 The error in the week 9 repository is that the link is disregarded if there is a space in it, when in reality it is acceptable to have a space if the next character after the space is a quotation mark. Because of this, there needs to be an additional if statement that checks if the character after a space is a quotation mark, which in that case will make the link continue to function regardless of the space (the space is actually required when there is a quotation mark in the link).
